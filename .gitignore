@@ -1,0 +1,21 @@
+# --- Build output: module zips ---
+out/
+*.zip
+
+# --- Device dumps (may contain installed apps and other personal data) ---
+device-info.txt
+*.logcat
+logcat*.txt
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+
+# --- Editors and OS ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini

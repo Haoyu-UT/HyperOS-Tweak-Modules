@@ -1,0 +1,6 @@
+id=hyperos_hide_gesture_line
+name=HyperOS Hide Gesture Line
+version=v1.0
+versionCode=100
+author=haoyu-UT
+description=Hides the gesture line (global hide_gesture_line=1) and keeps it hidden on every boot. Gestures keep working. Disable or remove the module and reboot to show it again.

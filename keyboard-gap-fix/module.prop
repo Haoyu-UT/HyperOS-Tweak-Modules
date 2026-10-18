@@ -1,0 +1,6 @@
+id=hyperos_keyboard_gap_fix
+name=HyperOS Keyboard Gap Fix
+version=v1.0
+versionCode=100
+author=haoyu-UT
+description=Removes the gap and arrow row under the keyboard by overriding config_imeDrawsImeNavBar=false at boot. Gestures and the gesture line are untouched. Disable or remove the module and reboot to undo; nothing is left behind.
